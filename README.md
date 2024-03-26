@@ -1,7 +1,7 @@
 # ligh_wave
 
 ### what is it
-to simple programs in which tkinter uses the microphone to make "a light show" and show u how loud the music is(not calibrated, do not use for proffesional use) both programs are multithreaded.
+two simple programs in which tkinter uses the microphone to make "a light show" and show u how loud the music is(not calibrated, do not use for proffesional use) both programs are multithreaded.
 the program needs to be optimezed to react quicker to the sound.
 
 #### first program
